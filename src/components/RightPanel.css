@@ -1,0 +1,48 @@
+.right-panel {
+    padding: 10px;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .section {
+    margin-bottom: 15px;
+  }
+  
+  .dimension-input {
+    display: flex;
+    align-items: center;
+  }
+  
+  .number-input {
+    width: 60px;
+    margin-right: 5px;
+  }
+  
+  .unit-select {
+    width: 70px;
+  }
+  
+  .update-btn,
+  .delete-btn {
+    margin-top: 10px;
+  }
+  
+  .toggle-btn {
+    margin: 10px;
+  }
+  .text-input {
+    background-color: transparent;
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+    padding: 5px; 
+    resize: none; 
+    color: #000; 
+    outline: none; 
+  }
+  
+  .text-input::placeholder { 
+    color: #aaa; 
+  }
+  

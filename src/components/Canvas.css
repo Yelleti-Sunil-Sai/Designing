@@ -1,0 +1,17 @@
+.canvas {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+    border-left: 1px solid #ccc;
+    flex-grow: 1;
+  }
+  
+  .paper {
+    border: 1px solid #999;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+  }
+  
